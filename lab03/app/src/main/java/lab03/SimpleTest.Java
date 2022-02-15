@@ -1,4 +1,4 @@
-package lab02;
+package lab03;
 
 public class SimpleTest {
     public String Hello() {
