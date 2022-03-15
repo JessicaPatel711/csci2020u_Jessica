@@ -11,7 +11,6 @@ import javafx.stage.Stage;
 
 public class lab06 extends Application {
 
-    //Data for Bar Chart
     private static double[] avgHousingPricesByYear = {
             247381.0,264171.4,287715.3,294736.1,
             308431.4,322635.9,340253.0,363153.7
@@ -21,7 +20,6 @@ public class lab06 extends Application {
             1335932.6,1472362.0,1583521.9,1613246.3
     };
 
-    //Data for Pie Chart
     private static String[] ageGroups = {
             "18-25", "26-35", "36-45", "46-55", "56-65", "65+"
     };
